@@ -1,4 +1,4 @@
-# CMPE279-assignment-1
+# CMPE279-assignment-2
 
 Team members:
 Brinda Rajeshbhai Pujara
